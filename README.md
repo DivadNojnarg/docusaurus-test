@@ -1,5 +1,7 @@
 # Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5be18a5-0a8b-4e1a-b63c-630edbc3d8be/deploy-status)](https://app.netlify.com/sites/laughing-mayer-5437ab/deploys)
+
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ## Installation
